@@ -4,7 +4,15 @@ My undergraduate research experiences have mostly dealt with analysing the algor
 
 # Biomedical informatics  
 
-I also worked with Causal Inference with graphical methods at the University of Pittsburgh's Center for Causal Discovery as part of the iBRICK summer research internship program, under the mentorship of [Bryan Andrews](http://www.pitt.edu/~bja43/) and [Dr. Greg Cooper](http://www.ccd.pitt.edu/listings/gregory-cooper/). The research focused on exploring the use of both experimental and non-experimental(observational) datasets in the Causal Inference research pipeline algorithms in order to acquire more information from the data and enrich the inference results.  
+I also worked with Causal Inference with graphical methods at the University of Pittsburgh's [Center for Causal Discovery](https://www.ccd.pitt.edu/) as part of the iBRICK summer research internship program sponsored by the IDI-BD2K, under the mentorship of [Bryan Andrews](http://www.pitt.edu/~bja43/) and [Dr. Greg Cooper](http://www.ccd.pitt.edu/listings/gregory-cooper/). The research focused on exploring the use of both experimental and non-experimental(observational) datasets in the Causal Inference research pipeline algorithms in order to acquire more information from the data and enrich the inference results. 
+
+# Quantitaive Biology Workshop at MIT
+
+On January of 2017, I had the opportunity to visit the MIT Campus through the Neuro-ID & IDI-BD2K programs and attend their awesome [Quantitative biology workshop](https://cbmm.mit.edu/diversity/january-workshop-introduction-computational-tools-used-neuroscience-research) at the [The Center for Brains, Minds and Machines (CBMM)](https://cbmm.mit.edu) which has mostly shaped my interest in graduate studies and research topics. 
+
+## Grants:
+[_IDI-BD2K - R25 MD010399_](https://idi-bd2k.hpcf.upr.edu/about/)
+[_Claude Shannon Scholarship for excelence in computer science and mathemathics_](http://ccom.uprrp.edu/~sstem/)
 
 ### _Useful Links:_
 
