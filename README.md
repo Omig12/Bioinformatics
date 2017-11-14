@@ -10,9 +10,12 @@ I also worked with Causal Inference with graphical methods at the University of 
 
 On January of 2017, I had the opportunity to visit the MIT Campus through the Neuro-ID & IDI-BD2K programs and attend their awesome [Quantitative biology workshop](https://cbmm.mit.edu/diversity/january-workshop-introduction-computational-tools-used-neuroscience-research) at the [The Center for Brains, Minds and Machines (CBMM)](https://cbmm.mit.edu) which has mostly shaped my interest in graduate studies and research topics. 
 
-## Grants:
+## Grants and Scholarship awards:
+_Thanks to the following grants and scholarship awards I have been able to participate in such events and research experiences._
+
 [_IDI-BD2K - R25 MD010399_](https://idi-bd2k.hpcf.upr.edu/about/)
-[_Claude Shannon Scholarship for excelence in computer science and mathemathics_](http://ccom.uprrp.edu/~sstem/)
+
+[_Claude Shannon Scholarship_](http://ccom.uprrp.edu/~sstem/)
 
 ### _Useful Links:_
 
